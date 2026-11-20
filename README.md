@@ -1,7 +1,3 @@
-
-<img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/c93454d0-a115-4a5e-a41c-ee136247959c" />
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-
 🍿 Anime Nexo es una plataforma web dedicada al anime, donde podés descubrir y explorar una colección de Animes y Películas. Ofrece un catálogo visual con portadas, sinopsis, calificaciones, capítulos y enlaces para ver contenido. Incluye buscador integrado, filtros por categorías y géneros, colecciones especiales y una lista personal de pendientes. Todo acompañado de una interfaz moderna.
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
