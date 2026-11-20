@@ -3,4 +3,7 @@
 🎌 Tu espacio para descubrir y disfrutar del anime.
 
 
+
+
+
 <img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/fee1444d-2293-4bd8-8f17-a3c658950953" />
